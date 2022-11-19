@@ -67,4 +67,7 @@ Float | 4 byte
 [my facebook profile](https://www.facebook.com/levisoromto1)
 
 
+@Oby38
+@NaheemahBello 
+
 [back to top](https://github.com/levoski1/alx-low_level_programming/blob/master/good_README.md) 
