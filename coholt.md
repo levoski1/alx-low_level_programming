@@ -55,3 +55,10 @@ This is an example of how to list things you need to use the software and how to
 
 4. Enter your API in config.js
     > `const` API_KEY = 'ENTER YOUR API';
+
+First header | Second Header 
+----------- | -----------
+Datatype | Size
+Int | 4 byte
+Char | 1 byte
+Float | 4 byte
