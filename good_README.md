@@ -55,4 +55,13 @@ Below is an example of how you can instruct your audience on installing and sett
 -[] Add Additional Templates w/ Examples
 
 
+First Header|Second Header
+------|-------
+Content1 | Content2
+Int | 4 byte
+Char | 1 byte
+Float | 4 byte
+
+
+
 [back to top](https://github.com/levoski1/alx-low_level_programming/blob/master/good_README.md) 
