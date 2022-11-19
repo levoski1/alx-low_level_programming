@@ -1,4 +1,4 @@
-#Best-README-Template
+# Best-README-Template
 
 An awesome README template to jumpstart your projects!
 
@@ -20,10 +20,10 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 Use the `BLANK_README.md` to get started.
 
-- [Next. J] (https://nextjs.org/) 
-- [React] (https://reactjs.org/) 
+- [Next. J](https://nextjs.org/) 
+- [React](https://reactjs.org/) 
 
-#**Getting started**
+# **Getting started**
 
 *******
 
@@ -37,7 +37,7 @@ This is an example of how to list things you need to use the software and how to
 
 	> `npm install npm@latest -g`
 
-##Installation
+## Installation
 
 Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services.
 
@@ -47,12 +47,12 @@ Below is an example of how you can instruct your audience on installing and sett
 
 `const` API_KEY = 'ENTER YOUR API';
 
-##Roadmap
+## Roadmap
 
 *****
--[x] Add Changelog
+-[x]Add Changelog
 
 -[] Add Additional Templates w/ Examples
 
 
-[back to top] () 
+[back to top](https://github.com/levoski1/alx-low_level_programming/blob/master/good_README.md) 
